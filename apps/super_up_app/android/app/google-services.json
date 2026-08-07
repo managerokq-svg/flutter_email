@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "810218634692",
+    "project_id": "super-up-27b67",
+    "storage_bucket": "super-up-27b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810218634692:android:3c6c851a214cc1164db891",
+        "android_client_info": {
+          "package_name": "com.app.superup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810218634692-sr9tjccjovi9jh4nu3qs0ohnfbut0et5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPH2-5XPakHokRigJy-G0MlaRlzGHee8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810218634692-sr9tjccjovi9jh4nu3qs0ohnfbut0et5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810218634692-99mpumgr29f6ct3jnrb6u2ffhamb91t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.superUpApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810218634692:android:cb9ab785448cf39c4db891",
+        "android_client_info": {
+          "package_name": "com.superup.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810218634692-sr9tjccjovi9jh4nu3qs0ohnfbut0et5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPH2-5XPakHokRigJy-G0MlaRlzGHee8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810218634692-sr9tjccjovi9jh4nu3qs0ohnfbut0et5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810218634692-99mpumgr29f6ct3jnrb6u2ffhamb91t2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.superUpApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
