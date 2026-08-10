@@ -23,7 +23,7 @@ dependencies:
   map_launcher: ^4.4.2
   flutter_cache_manager: ^3.4.1
   loadmore: ^2.1.0
-  meta: ^1.17.0
+  meta: ^1.16.0
   badges: ^3.1.2
   v_platform: ^2.1.5
   timeago: ^3.7.1
