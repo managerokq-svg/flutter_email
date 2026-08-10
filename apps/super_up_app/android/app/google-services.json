@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:810218634692:android:3c6c851a214cc1164db891",
         "android_client_info": {
-          "package_name": "com.app.superup"
+          "package_name": "com.salom.app"
         }
       },
       "oauth_client": [
@@ -45,7 +45,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:810218634692:android:cb9ab785448cf39c4db891",
         "android_client_info": {
-          "package_name": "com.superup.online"
+          "package_name": "com.salom.app"
         }
       },
       "oauth_client": [
