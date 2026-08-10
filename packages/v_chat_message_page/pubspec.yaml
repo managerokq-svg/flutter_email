@@ -32,7 +32,7 @@ dependencies:
   open_filex: ^4.7.0
   share_plus: ^12.0.1
   flutter_cache_manager: ^3.4.1
-  meta: ^1.17.0
+  meta: ^1.16.0
   flutter_dropzone: ^4.2.1
   flutter_link_previewer: ^4.2.0
   v_platform: ^2.1.5
